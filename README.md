@@ -1,3 +1,3 @@
-# pwj-module-7-oop
+# Sound Mixer app
 
-In javascript we can creaqte an audio oibject using new Audio()
+In javascript we can create an audio oibject using new Audio()
